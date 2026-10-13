@@ -61,4 +61,4 @@ This assignment uses `prompt()`, so it should be opened in a browser environment
 
 ## Author 
 
-M Indu
+Rajat Kumar patel
