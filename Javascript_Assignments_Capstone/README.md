@@ -30,6 +30,6 @@ To reproduce the PDF's sample output:
 - Product name: Monitor
 - Product price: 150
 
-### Author
+## Author 
 
-M Indu
+Rajat Kumar patel
