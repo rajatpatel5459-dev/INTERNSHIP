@@ -43,9 +43,6 @@ This repository includes:
 
 RAJAT KUMAR PATEL
 
-- Student ID: Provided in the official offer letter
-- Application: Provided in the official offer letter
-
 ### Offer Summary
 
 We are pleased to offer you a place in EWB EDUTECH PRIVATE LIMITED's JavaScript Web Development Internship following your selection on the National Internship Portal. This internship provides practical exposure to web development and hands-on coding experience.
@@ -64,9 +61,6 @@ INTERNSHIP/
 │   ├── Assignment_05/
 │   ├── Assignment_06/
 │   └── capstone-project/
-├── assets/
-│   └── docs/
-└── notes/
 ```
 
 ## JavaScript Assignments Included
