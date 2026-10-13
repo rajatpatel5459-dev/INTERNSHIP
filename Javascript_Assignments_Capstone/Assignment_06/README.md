@@ -65,4 +65,4 @@ node assignment-6.js
 
 ## Author 
 
-M Indu
+Rajat Kumar patel
