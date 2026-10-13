@@ -49,4 +49,4 @@ node assignment-3.js
 
 ## Author 
 
-M Indu
+Rajat Kumar patel
