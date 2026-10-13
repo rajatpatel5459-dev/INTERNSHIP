@@ -53,4 +53,4 @@ node assignment-1.js
 
 ## Author 
 
-M Indu
+Rajat Kumar patel
